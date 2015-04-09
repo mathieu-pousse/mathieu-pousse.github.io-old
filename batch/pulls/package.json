@@ -1,0 +1,16 @@
+{
+  "name": "extract-pulls",
+  "version": "1.0.0",
+  "description": "extract merged pull requests",
+  "main": "extract.js",
+  "dependencies": {
+    "JSONStream": "^0.10.0",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
